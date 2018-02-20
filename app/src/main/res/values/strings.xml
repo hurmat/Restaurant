@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Restaurant</string>
+    <string name="cross">cross</string>
+    <string name="track_truck">TRACK TRUCK</string>
+
+    <string name="list">List</string>
 </resources>
